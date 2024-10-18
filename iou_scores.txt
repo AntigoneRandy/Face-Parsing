@@ -1,0 +1,21 @@
+Class 0: IoU = 0.9252
+Class 1: IoU = 0.9198
+Class 2: IoU = 0.8670
+Class 3: IoU = 0.7802
+Class 4: IoU = 0.7679
+Class 5: IoU = 0.7704
+Class 6: IoU = 0.7191
+Class 7: IoU = 0.7058
+Class 8: IoU = 0.7195
+Class 9: IoU = 0.7206
+Class 10: IoU = 0.8067
+Class 11: IoU = 0.7694
+Class 12: IoU = 0.7953
+Class 13: IoU = 0.9041
+Class 14: IoU = 0.8356
+Class 15: IoU = 0.4040
+Class 16: IoU = 0.0356
+Class 17: IoU = 0.8219
+Class 18: IoU = 0.7885
+
+Mean IoU (mIoU, average across all classes): 0.7398

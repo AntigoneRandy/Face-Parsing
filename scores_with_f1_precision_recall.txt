@@ -1,0 +1,23 @@
+Class 0: Precision = 0.9628, Recall = 0.9595, F1-score = 0.9611
+Class 1: Precision = 0.9589, Recall = 0.9575, F1-score = 0.9582
+Class 2: Precision = 0.9262, Recall = 0.9313, F1-score = 0.9288
+Class 3: Precision = 0.8620, Recall = 0.8915, F1-score = 0.8765
+Class 4: Precision = 0.8786, Recall = 0.8591, F1-score = 0.8687
+Class 5: Precision = 0.8834, Recall = 0.8577, F1-score = 0.8703
+Class 6: Precision = 0.8526, Recall = 0.8212, F1-score = 0.8366
+Class 7: Precision = 0.8502, Recall = 0.8060, F1-score = 0.8275
+Class 8: Precision = 0.8548, Recall = 0.8197, F1-score = 0.8369
+Class 9: Precision = 0.8474, Recall = 0.8280, F1-score = 0.8376
+Class 10: Precision = 0.9139, Recall = 0.8731, F1-score = 0.8930
+Class 11: Precision = 0.8721, Recall = 0.8673, F1-score = 0.8697
+Class 12: Precision = 0.8769, Recall = 0.8953, F1-score = 0.8860
+Class 13: Precision = 0.9454, Recall = 0.9539, F1-score = 0.9496
+Class 14: Precision = 0.8857, Recall = 0.9366, F1-score = 0.9104
+Class 15: Precision = 0.7106, Recall = 0.4836, F1-score = 0.5755
+Class 16: Precision = 0.2179, Recall = 0.0408, F1-score = 0.0687
+Class 17: Precision = 0.9025, Recall = 0.9020, F1-score = 0.9023
+Class 18: Precision = 0.8910, Recall = 0.8726, F1-score = 0.8817
+
+Macro Precision (average across all classes): 0.8470
+Macro Recall (average across all classes): 0.8188
+Macro F1-score (average across all classes): 0.8284
