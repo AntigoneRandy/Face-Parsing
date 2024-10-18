@@ -94,4 +94,4 @@ The default checkpoint is ``Deeplab_checkpoint_epoch_400.pt``, which is the mode
 
 Note that our pseudo-label generation method is placed in `generate_labels.py`. Currently, we did not merge it into `main_deeplab.py`, so you may need to first train the model for 30 epochs and then run `python generate_labels.py` to merge the labels. Then, you need to change the label path in `main_deeplab.py` and load the checkpoints to continue training.
 
-We used some code from https://github.com/VainF/DeepLabV3Plus-Pytorch, which is really helpful for us.
+We used some code from [DeepLabV3Plus-Pytorch](https://github.com/VainF/DeepLabV3Plus-Pytorch), which is really helpful for us. Sincere thanks to the authors for their great implementation.
